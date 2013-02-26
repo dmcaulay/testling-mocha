@@ -1,7 +1,7 @@
 {
   "name": "testling-mocha",
   "version": "0.0.0",
-  "description": "A sample project using my forked version of testling running mocha tests",
+  "description": "A sample project that uses testling and mocha to run tests in the browser",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
