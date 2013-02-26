@@ -1,0 +1,12 @@
+{
+  "name": "testling-mocha",
+  "version": "0.0.0",
+  "description": "A sample project using my forked version of mocha and testling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Dan McAulay",
+  "license": "BSD"
+}
